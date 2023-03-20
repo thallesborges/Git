@@ -1,8 +1,9 @@
 **Git/Github**
 
 1. Download do Git:
+
     https://git-scm.com/downloads
-    * Next
+    - Clique Next em todos os processos.
 
 **Git Commands**
 
