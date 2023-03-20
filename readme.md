@@ -7,15 +7,14 @@
 **Git Commands**
 
 1. git init
-    cria a pasta .git no local
-    cria o repositório
 
 2. git add *arquivo*
-    coloca o arquivo em stage p/ commit
 
-3. git status
-    mostra os arquivos que foram adicionados
+3. git commit -m "*mensagem*"
+    
+4. git config --global user.email "*seu@email.com*"
 
+5. git remote add origin *repositório*
 
 
 
