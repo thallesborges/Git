@@ -17,6 +17,8 @@
 
 5. git remote add origin *repositório*
 
+6. git remote set-url origin *repositório*
+
 
 
 
