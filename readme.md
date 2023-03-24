@@ -19,6 +19,9 @@
 
 6. git remote set-url origin *repositório*
 
+7. git push -u origin main
+
+8. 
 
 
 
